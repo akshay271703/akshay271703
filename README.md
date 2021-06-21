@@ -1,16 +1,18 @@
-### Hi there 👋
+ I am a Web Developer who is passionate about building fast and efficient web applications. 
+ 
+  🔭 Currently Using Tech Stacks -
+ 
+  🔭 HTML CSS Javascipt
+  🔭 VueJS Vuetify Vuex
+  🔭 NodeJS, ExpressJS
+  🔭 Firebase, MongoDB
 
-<!--
-**akshay271703/akshay271703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🌱 Looking Forward to learn -
+  
+  🌱 React JS
+  🌱 AWS
+  🌱 Typescript
+  🌱 Javascript Libraries
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 Ask me a question /  📫 Reach Out to Me - 
+ toakshay.official@gmail.com
