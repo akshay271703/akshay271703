@@ -1,13 +1,13 @@
  I am a Web Developer who is passionate about building fast and efficient web applications. 
  
-  🔭 Currently Using Tech Stacks -
+  🔭 Currently Using Tech Stacks 🔭
  
-  🔭 HTML CSS Javascipt
-  🔭 VueJS Vuetify Vuex
-  🔭 NodeJS, ExpressJS
-  🔭 Firebase, MongoDB
+  🔭 HTML 🔭 CSS 🔭 Javascipt
+  🔭 VueJS 🔭 Vuetify 🔭 Vuex
+  🔭 NodeJS 🔭 ExpressJS
+  🔭 Firebase 🔭 MongoDB
 
-  🌱 Looking Forward to learn -
+  🌱 Looking Forward to learn 🌱
   
   🌱 React JS
   🌱 AWS
