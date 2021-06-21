@@ -1,13 +1,16 @@
- I am a Web Developer who is passionate about building fast and efficient web applications. 
+ 👋 Hello There, My name is Akshay Bhargava, I am a Full Stack Web Developer
  
   🔭 Currently Using Tech Stacks 🔭
  
-  🔭 HTML 🔭 CSS 🔭 Javascipt
-  🔭 VueJS 🔭 Vuetify 🔭 Vuex
+  🔭 HTML 🔭 CSS
+  
+  💕 Javascipt 💕 VueJS 💕 Vuetify 💕 Vuex
+  
   🔭 NodeJS 🔭 ExpressJS
+  
   🔭 Firebase 🔭 MongoDB
 
-  🌱 Looking Forward to learn 🌱
+  🌱 Looking Forward to work in 🌱
   
   🌱 React JS
   🌱 AWS
