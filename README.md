@@ -9,13 +9,7 @@
   🔭 NodeJS 🔭 ExpressJS
   
   🔭 Firebase 🔭 MongoDB
-
-  🌱 Looking Forward to work in 🌱
-  
-  🌱 React JS
-  🌱 AWS
-  🌱 Typescript
-  🌱 Javascript Libraries
+ 
 
  💬 Ask me a question /  📫 Reach Out to Me - 
  toakshay.official@gmail.com
