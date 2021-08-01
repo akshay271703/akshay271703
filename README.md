@@ -1,4 +1,4 @@
- 👋 Hello There, My name is Akshay Bhargava, I am a Full Stack Web Developer
+ 👋 Hello There,  I am a Full Stack Web Developer
  
   🔭 Currently Using Tech Stacks 🔭
  
