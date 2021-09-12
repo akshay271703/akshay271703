@@ -2,14 +2,15 @@
  
  I am learning `everything`
  
-  🔭 HTML 🔭 CSS
+  🔭 `HTML` 🔭 `CSS`
   
-  💕 Javascipt 💕 Typescript 💕 VueJS 💕 Vuetify 💕 Vuex
+  💕 `Javascipt` 💕 `Typescript` 💕 `VueJS` 💕 `Vuetify` 💕 `Vuex`
   
-  🔭 NodeJS 🔭 ExpressJS 🔭 NestJS
+  🔭 `NodeJS` 🔭 `ExpressJS` 🔭 `NestJS`
   
-  🔭 Firebase 🔭 MongoDB 🔭 SQL 🔭 Postgres
+  🔭 `Firebase` 🔭 `ongoDB` 🔭 `SQL` 🔭 `Postgres`
  
 
  💬 Ask me a question /  📫 Reach Out to Me - 
- toakshay.official@gmail.com
+ Email me @ `toakshay.official@gmail.com`
+ Stalk me @ `https://www.linkedin.com/in/bhargava-akshay/`
