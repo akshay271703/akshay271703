@@ -1,14 +1,14 @@
- 👋 Hello There,  I am a Full Stack Web Developer
+ 👋 Hello There,  I am a Full Stack Software Engineer.
  
-  🔭 Currently Using Tech Stacks 🔭
+ I am learning `everything`
  
   🔭 HTML 🔭 CSS
   
-  💕 Javascipt 💕 VueJS 💕 Vuetify 💕 Vuex
+  💕 Javascipt 💕 Typescript 💕 VueJS 💕 Vuetify 💕 Vuex
   
-  🔭 NodeJS 🔭 ExpressJS
+  🔭 NodeJS 🔭 ExpressJS 🔭 NestJS
   
-  🔭 Firebase 🔭 MongoDB
+  🔭 Firebase 🔭 MongoDB 🔭 SQL 🔭 Postgres
  
 
  💬 Ask me a question /  📫 Reach Out to Me - 
