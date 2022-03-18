@@ -49,6 +49,7 @@
  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+ 
  Some Of my stats on Github
  
  ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay271703&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
