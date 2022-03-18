@@ -1,9 +1,5 @@
- 👋 Hello There,  I am a Full Stack Software Engineer.
- 
- I am learning `everything` and building `anything`
- 
- ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay271703&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay271703&layout=compact)](https://github.com/akshay271703/github-readme-stats)
+ 👋 Hello There, I'm Akshay Bhargava 
+ I am a Computer Science Graduate with specialization in Cloud Technology.
  
  I develop using.
  
@@ -47,10 +43,13 @@
  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ 
+ Some Of my stats on Github
+ 
+ ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay271703&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay271703&layout=compact)](https://github.com/akshay271703/github-readme-stats)
 
  💬 Ask me a question /  📫 Reach Out to Me - 
  
- 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -  `toakshay.official@gmail.com` 
-
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - `https://www.linkedin.com/in/bhargava-akshay/`
