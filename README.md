@@ -2,6 +2,8 @@
  
  I am learning `everything` and building `anything`
  
+ ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay271703&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
+ 
  I develop using.
  
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
