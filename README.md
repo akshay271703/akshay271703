@@ -1,4 +1,5 @@
  👋 Hello There, I'm Akshay Bhargava 
+ 
  I am a Computer Science Graduate with specialization in Cloud Technology.
  
  I develop using.
@@ -52,4 +53,5 @@
  💬 Ask me a question /  📫 Reach Out to Me - 
  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -  `toakshay.official@gmail.com` 
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - `https://www.linkedin.com/in/bhargava-akshay/`
