@@ -3,7 +3,7 @@
  I am learning `everything` and building `anything`
  
  ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay271703&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay271703)](https://github.com/akshay271703/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay271703&layout=compact)](https://github.com/akshay271703/github-readme-stats)
  
  I develop using.
  
