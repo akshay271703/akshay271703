@@ -1,7 +1,7 @@
  👋 Hello There, I'm Akshay Bhargava 
  
- I am a Computer Science Graduate with specialization in Cloud Technology.
- Currently working as a Software Engineer and I ..
+ A Computer Science Graduate with specialization in Cloud Technology.
+ Currently working as a Senior Software Engineer.
  
  I develop using.
  
