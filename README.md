@@ -1,7 +1,6 @@
  👋 Hello There, I'm Akshay Bhargava 
  
- A Computer Science Graduate with specialization in Cloud Technology.
- Currently working as a Senior Software Engineer.
+Senior Software Engineer | Technical Blogger
  
  I develop using.
  
